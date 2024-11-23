@@ -56,8 +56,6 @@ namespace SwappingValue
             Console.WriteLine(firstString);
             Console.WriteLine(secondString);
 
-            int result = 2 ^ 1;
-            Console.WriteLine("2 square is  {0}" , result);
 
            
 
